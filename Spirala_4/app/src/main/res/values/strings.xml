@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Spirala_1</string>
+    <string name="naziv">Naziv biljke</string>
+    <string name="upozorenje">Upozorenje</string>
+    <string name="korist1">Korist1</string>
+    <string name="korist2">Korist2</string>
+    <string name="korist3">Korist3</string>
+    <string name="profilOkusa">Profil okusa</string>
+    <string name="jelo">Jelo</string>
+    <string name="jelo1">jelo 1</string>
+    <string name="jelo2">jelo 2</string>
+    <string name="jelo3">jelo 3</string>
+    <string name="porodica">Porodica</string>
+    <string name="klimatskiTip">Prvi klimatski tip</string>
+    <string name="zemljisniTip">Prvi tip zemljista</string>
+    <string name="button">Reset</string>
+
+    <string name="dodajBiljku">Dodaj biljku</string>
+    <string name="dodajJelo">Dodaj jelo</string>
+    <string name="izmijeniJelo">Izmijeni jelo</string>
+    <string name="uslikajBiljku">Uslikaj biljku</string>
+    <string name="izmijeni_jelo">Izmijeni jelo</string>
+
+    <string name="pretraga">Pretraga</string>
+    <string name="trazi">Trazi...</string>
+</resources>
